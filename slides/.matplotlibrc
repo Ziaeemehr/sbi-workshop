@@ -10,10 +10,10 @@
 text.usetex          : False
 mathtext.default     : regular
 
-font.family          : serif
-font.serif           : Arial, sans-serif
-font.sans-serif      : Arial, sans-serif
-font.cursive         : Arial, sans-serif
+# font.family          : serif
+# font.serif           : Arial, sans-serif
+# font.sans-serif      : Arial, sans-serif
+# font.cursive         : Arial, sans-serif
 font.size            : 12
 figure.titlesize     : 12
 legend.fontsize      : 12
@@ -40,7 +40,7 @@ ytick.minor.width    : 1.5
 lines.linewidth      : 1.5
 lines.markersize     : 3
 
-savefig.dpi          : 300
+savefig.dpi          : 150
 savefig.format       : svg
 savefig.bbox         : tight
 savefig.pad_inches   : 0.1
